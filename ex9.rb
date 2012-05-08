@@ -1,7 +1,7 @@
 days = "Mon, Tue, Wed, Thu, Fri, Sat, Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nNov\nDez"
 
-puts "\tHere are the days: ", days
+puts "Here are the days: ", days
 puts "Here are the months: ", months
 
 puts <<FELIPE
